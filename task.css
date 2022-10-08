@@ -1,0 +1,61 @@
+*{
+    padding:0;
+    margin: 0;
+}
+.fc{
+    font-family:Copperplate Gothic;
+    color: aqua;
+    background-color: #edf7f6;
+  
+}
+.hd{
+   
+   text-align:center;
+   padding-bottom: 0px;
+    padding:70px
+}
+.hd>h1{
+    margin-bottom: 0px;
+    padding:200px
+}
+.stuf{
+   
+    text-align: center;
+}
+.img1{
+    padding-top: 20px;
+ padding:90px 
+   
+}
+.cont>table{
+    text-align: center;
+    background-color: #edf7f6;
+    color:#ffa886;
+    justify-content: space-around;
+    position: relative;
+    padding: 100px;
+    margin-left: 10px;
+    width: 500px;
+    
+    
+    
+    
+}
+label{
+    text-align:right ;
+    padding: 10px;
+   
+}
+.cont{
+    
+    padding: 40px;
+
+}
+.button1{
+    
+    margin:10px;
+    padding: 0px;
+}
+.bt{
+margin-right: 50px;
+}
